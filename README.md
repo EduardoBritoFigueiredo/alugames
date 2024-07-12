@@ -4,6 +4,10 @@
 
 Desenvolvimento de um aplicativo web de aluguel de jogos de vídeo game usando Javascritpt, HTML e CSS durante desafios práticos da formação em lógica de programação básica na Alura.
 
+## SNAPSHOT
+
+![snpashot do aplicativo](/img/printscreen%20alugames.png)
+
 ## TECHNOLOGIES
 
 - ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
