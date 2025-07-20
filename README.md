@@ -8,6 +8,8 @@ Desenvolvimento de um aplicativo web de aluguel de jogos de vídeo game usando J
 
 ![snpashot do aplicativo](/img/printscreen%20alugames.png)
 
+Acesse [aqui](https://eduardobritofigueiredo.github.io/alugames) para ver como ficou o aplicativo web.
+
 ## TECHNOLOGIES
 
 - ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
